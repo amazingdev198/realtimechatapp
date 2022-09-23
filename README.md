@@ -7,7 +7,7 @@ NOTE:- BACKEND SUPPORT COMING SOON..(via AWS AMPLIFY)
 
 ## iOS App Preview
 
-<img src="https://github.com/aayushjha5/realtimechatapp/blob/master/chatapp.gif" width=270 height=480 />
+<img src="https://github.com/amazingdev198/realtimechatapp/blob/master/chatapp.gif" width=270 height=480 />
 
  
 
